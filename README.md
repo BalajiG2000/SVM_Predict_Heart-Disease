@@ -1,2 +1,26 @@
 # SVM_Predict_Heart-Disease
 DATA SET: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+
+
+I have built this Support Vector Machine for classification using scikit-learn and the Radial Basis Function (RBF) Kernel. The training data set contains continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
+
+Concepts covered:
+
+programming in Python and the concepts behind Support Vector Machines, the Radial Basis Function, Regularization, Cross Validation and Confusion Matrices.
+
+Steps Involved:
+
+Import the modules that will do all the work
+Import the data
+Identifying Missing Data
+Dealing With Missing Data
+Split the Data into Dependent and Independent Variables
+One-Hot Encoding
+Centering and Scaling
+Build A Preliminary Support Vector Machine
+Optimize Parameters with Cross Validation
+Building, Evaluating, Drawing, and Interpreting the Final Support Vector Machine
+
+
+
