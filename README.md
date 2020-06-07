@@ -12,14 +12,32 @@ programming in Python and the concepts behind Support Vector Machines, the Radia
 Steps Involved:
 
 Import the modules that will do all the work
+
+
 Import the data
+
+
 Identifying Missing Data
+
+
 Dealing With Missing Data
+
+
 Split the Data into Dependent and Independent Variables
+
+
 One-Hot Encoding
+
+
 Centering and Scaling
+
+
 Build A Preliminary Support Vector Machine
+
+
 Optimize Parameters with Cross Validation
+
+
 Building, Evaluating, Drawing, and Interpreting the Final Support Vector Machine
 
 
