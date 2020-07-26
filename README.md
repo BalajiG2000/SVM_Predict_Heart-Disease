@@ -41,4 +41,34 @@ Optimize Parameters with Cross Validation
 Building, Evaluating, Drawing, and Interpreting the Final Support Vector Machine
 
 
+DATASET OVERVIEW:
+
+age,
+
+sex,
+
+cp, chest pain
+
+restbp, resting blood pressure (in mm Hg)
+
+chol, serum cholesterol in mg/dl
+
+fbs, fasting blood sugar
+
+restecg, resting electrocardiographic results
+
+thalach, maximum heart rate achieved
+
+exang, exercise induced angina
+
+oldpeak, ST depression induced by exercise relative to rest
+
+slope, the slope of the peak exercise ST segment.
+
+ca, number of major vessels (0-3) colored by fluoroscopy
+
+thal, this is short of thalium heart scan.
+
+hd, diagnosis of heart disease, the predicted attribute
+
 
